@@ -1,0 +1,32 @@
+body {
+    background-color: black;
+}
+
+#div1Container {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+}
+
+#h1Text {
+    color: white;
+    background-color: black;
+    text-transform: uppercase;
+    text-align: center;
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#img1Container {
+    border: 5px solid white;
+    width: 100%;
+}
+
+
+#para1Container {
+    color: white;
+    background-color: black;
+    font-weight: 900;
+    text-align: center;
+}
